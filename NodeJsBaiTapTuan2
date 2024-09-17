@@ -1,0 +1,52 @@
+{
+     "type": "Windows_NT",
+     "platform": "win32",
+     "RAM": 8473063424,
+     "USEDRAM": 5798334464,
+     "CPU": [
+          {
+               "model": "Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz",
+               "speed": 2295,
+               "times": {
+                    "user": 686593,
+                    "nice": 0,
+                    "sys": 413453,
+                    "idle": 2475375,
+                    "irq": 35281
+               }
+          },
+          {
+               "model": "Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz",
+               "speed": 2295,
+               "times": {
+                    "user": 766343,
+                    "nice": 0,
+                    "sys": 227765,
+                    "idle": 2581078,
+                    "irq": 11781
+               }
+          },
+          {
+               "model": "Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz",
+               "speed": 2295,
+               "times": {
+                    "user": 749546,
+                    "nice": 0,
+                    "sys": 345500,
+                    "idle": 2480140,
+                    "irq": 6281
+               }
+          },
+          {
+               "model": "Intel(R) Core(TM) i5-5300U CPU @ 2.30GHz",
+               "speed": 2295,
+               "times": {
+                    "user": 798640,
+                    "nice": 0,
+                    "sys": 254656,
+                    "idle": 2521890,
+                    "irq": 5171
+               }
+          }
+     ]
+}
